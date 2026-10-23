@@ -1,0 +1,2 @@
+This is a test file inside kss folder.
+Git can now track this directory because it is no longer empty.
